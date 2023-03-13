@@ -96,7 +96,7 @@
 
 
 
-    <form id="form" action="mailto:empfaenger@domain.com" method="post"> 
+    <form id="form" action="mailto:n.kunczer@gmail.com" method="post"> 
       <label for="nachricht">Are you a black lovin person?</label> 
       <textarea id="nachricht" name="nachricht" rows="3" required>Type your answer here and push the button..</textarea> 
       <br> 
