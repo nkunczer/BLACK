@@ -262,7 +262,7 @@ img{
 .background{
     height: 400px;
     background-color: #333;
-    background-image: url("/assets/img/monroe.jpg");
+    background-image: url("./assets/img/monroe.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 25px;

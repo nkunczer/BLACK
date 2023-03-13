@@ -35,6 +35,10 @@
      * https://developer.wordpress.org/reference/functions/body_class/
      */ ?>
 <body <?php body_class(); ?>>
+
+
+<header>
+
 <nav>
           <ul>
             <li><a href="https://de.wikipedia.org/wiki/Farbenlehre_(Goethe)" target="_blank">Wikipedia</a>
@@ -48,3 +52,8 @@
             
           </ul>
         </nav>
+
+
+        </header>
+
+        <br>
