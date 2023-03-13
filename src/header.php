@@ -14,9 +14,9 @@
 <meta name="author" content="Copyleft">
 <meta name="robots" content="noindex, nofollow">
 
-<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+<link rel="stylesheet" type="text/css" href="/style.css">
 <link rel="shortcut icon" href="pfad/zum/favico.ico" type="image/x-icon">
-<link rel="icon" href="img/fav.png" type="image/x-icon">
+<link rel="icon" href="assets/img/fav.png" type="image/x-icon">
 
 
 <link rel="preconnect" href="https://fonts.googleapis.com"> 
