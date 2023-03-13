@@ -11,60 +11,50 @@
     <meta name="description" content="Definitionen von Schwarz - einfach erklärt">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta name="author" content="Copyleft">
-<meta name="robots" content="noindex, nofollow">
+    <meta name="author" content="Copyleft">
+    <meta name="robots" content="noindex, nofollow">
 
-<link rel="stylesheet" type="text/css" href="/style.css">
-<link rel="shortcut icon" href="pfad/zum/favico.ico" type="image/x-icon">
-<link rel="icon" href="assets/img/fav.png" type="image/x-icon">
-
-
-<link rel="preconnect" href="https://fonts.googleapis.com"> 
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-<link href="https://fonts.googleapis.com/css2?family=Karla&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/style.css">
+    <link rel="shortcut icon" href="pfad/zum/favico.ico" type="image/x-icon">
+    <link rel="icon" href="assets/img/fav.png" type="image/x-icon">
 
 
-    <?php wp_head(); 
-    ?>
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+    <link href="https://fonts.googleapis.com/css2?family=Karla&display=swap" rel="stylesheet">
 
 
-
+<?php wp_head(); 
+?>
 
 </head>
-<?php /* body_class() liefert viele nützliche Klassen-Namen aus WordPress. ZB: logged-in, admin-bar, template, post-id, etc.
-     * https://developer.wordpress.org/reference/functions/body_class/
-     */ ?>
+<?php 
+?>
+
 <body <?php body_class(); ?>>
 
 
 <header>
 
 <nav>
-          <ul>
-            <li><a href="https://de.wikipedia.org/wiki/Farbenlehre_(Goethe)" target="_blank">Wikipedia</a>
-            
-              
-            
-            </li>
-            <li><a href="#">Admin</a></li>
-           
-           
-            
-          </ul>
-        </nav>
+    <ul>
+        <li><a href="https://de.wikipedia.org/wiki/Farbenlehre_(Goethe)" target="_blank">Wikipedia</a>
+        </li>
+        <li><a href="#">Admin</a>
+        </li>    
+    </ul>
+</nav>
 
 
-        </header>
+</header>
+ <br>
 
-        <br>
-
-        <div class="background">
-        
-        </div>
+<div class="background">
+</div>
 
 
-    <h1>"Black is Blyatiful"</h1>
+<h1>"Black is Blyatiful"</h1>
 
-    <hr>
+<hr>
     
-    <br>
+<br>
