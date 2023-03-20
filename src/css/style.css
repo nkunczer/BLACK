@@ -1,3 +1,19 @@
+
+
+/*
+Theme Name: BLACK
+Author: Copyleft
+Author URI: https://balkankru.com/
+Description: Custom black-colored theme with responsible elements.
+Version: 1.0
+Requires at least: 5.0
+Requires PHP: 7.0
+License: Copyleft
+Text Domain: black
+*/
+
+
+
 *{
   box-sizing: border-box;
 }
