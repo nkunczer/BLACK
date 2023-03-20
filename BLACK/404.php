@@ -32,45 +32,59 @@
 
 
 <head>
-    <title>404 Error</title>
+    
     <style>
-      /* Definiert die blinkende Animation */
+     
       @keyframes blink {
         50% {
           opacity: 0;
         }
       }
       
-      /* Definiert den Stil des Texts */
+      
       #error-text {
-        font-size: 40em;
+        font-size: 9em;
         text-align: center;
         color: red;
-        animation: blink 1s linear infinite;
+        animation: blink 1.5s linear infinite;
       }
       
-      /* Setzt den Flex-Container auf die gesamte Höhe und Breite des Viewports */
+      
       body {
         display: flex;
         justify-content: center;
         align-items: center;
         height: 100vh;
         margin: 0;
+        
       }
-      
-      /* Zentriert den Text innerhalb des Flex-Containers */
-      #error-text {
-        text-align: center;
+
+    </style>
+
+
+<style>
+      body {
+        background-image: url('./assets/img/fightclub.gif');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
       }
     </style>
-  </head>
+
+
+
+
+</head>
+
+
+
+
+
 
 
 
 
 <main>
-
-
 
 <h1 id="error-text">404 ERROR</h1>
 
