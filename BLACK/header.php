@@ -5,7 +5,7 @@
 <html lang="<?php language_attributes(); ?>" class="no-js">
 <head>
     <?php ?>
-    <title>BLACK IS BLYATIFUL</title>
+    <title>BLACK IS BLYATIFUL.. a short introduction</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="Definitionen von Schwarz - einfach erklärt">
