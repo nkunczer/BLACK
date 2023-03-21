@@ -54,6 +54,12 @@
         margin: 0;
       }
 
+      @media (max-width: 777px) {
+      body {
+        font-size: 70%; 
+      }
+      }
+
     </style>
 
 </head>
@@ -64,3 +70,5 @@
 <h1 id="error-text">404 ERROR</h1>
 
 </main>
+
+</html>
