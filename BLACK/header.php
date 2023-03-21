@@ -11,7 +11,7 @@
     <meta name="description" content="Definitionen von Schwarz - einfach erklärt">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta name="author" content="Copyleft">
+    <meta name="author" content="Nicolas K.">
     <meta name="robots" content="noindex, nofollow">
 
     <link rel="stylesheet" type="text/css" href="/style.css">
