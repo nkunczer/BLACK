@@ -4,8 +4,8 @@
 <?php ?>
 <html lang="<?php language_attributes(); ?>" class="no-js">
 <head>
-    <?php ?>
-    <title>BLACK IS BLYATIFUL.. a short introduction</title>
+  
+    <title>BLACK IS BLYATIFUL</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="Definitionen von Schwarz - einfach erklärt">
@@ -28,8 +28,7 @@
 ?>
 
 </head>
-<?php 
-?>
+
 
 <body <?php body_class(); ?>>
 
@@ -56,4 +55,7 @@
 <h1>"Black is Blyatiful"</h1>
 
 <hr>
+
+</body>
+</html>
     

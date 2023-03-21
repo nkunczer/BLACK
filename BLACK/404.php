@@ -39,7 +39,6 @@
         }
       }
       
-      
       #error-text {
         font-size: 9em;
         text-align: center;
@@ -47,14 +46,12 @@
         animation: blink 1.5s linear infinite;
       }
       
-      
       body {
         display: flex;
         justify-content: center;
         align-items: center;
         height: 100vh;
         margin: 0;
-        
       }
 
     </style>
