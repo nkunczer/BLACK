@@ -29,8 +29,6 @@
 ?>
 
 
-
-
 <head>
     
     <style>
@@ -61,30 +59,10 @@
 
     </style>
 
-
-<style>
-      body {
-        background-image: url('./assets/img/fightclub.gif');
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center center;
-      }
-    </style>
-
-
-
-
 </head>
 
-
-
-
-
-
-
-
-
 <main>
+
 
 <h1 id="error-text">404 ERROR</h1>
 
